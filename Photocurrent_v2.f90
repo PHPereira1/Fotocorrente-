@@ -51,9 +51,6 @@ double complex, allocatable  :: psi(:), prod(:), ki(:), psi0(:,:)
 m_qw = m_InGaAs
 m_qb = m_InAlAs
 
-
-
-
 ! ------------------------------------------------------------------
 !                 dimension of the heterostructure [m]
 ! ------------------------------------------------------------------
